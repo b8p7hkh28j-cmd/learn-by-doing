@@ -12,7 +12,7 @@
 - 针对最可能的问题补一块
 - 再回去实践验证
 
-[下载 PDF](./learn-by-doing.pdf)
+[下载 PDF](./learn_by_doing_final.pdf)
 
 延伸阅读：
 
